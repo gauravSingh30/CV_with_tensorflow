@@ -1,0 +1,20 @@
+# Happy or Sad Face Classification Data
+
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/happy-or-sad.zip
+
+# Human or Horse Classification Data
+
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip
+
+# Human or Horse Classification Validation Data
+
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/validation-horse-or-human.zip
+
+# MNIST Digits Data
+http://yann.lecun.com/exdb/mnist/
+
+# MNIST Fashion Data
+
+https://kaggle.com/zalando-research/fashionmnist/downloads/fashionmnist.zip/
+
+
