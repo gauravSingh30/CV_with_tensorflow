@@ -12,5 +12,6 @@ This repo contains my work on using Tensorflow for Computer Vision. The datasets
   - Basics of Tensorflow.
   - Use of Callbacks.
   - Convolutional Networks.
+  - How Filters Work.
   - Keras ImageGenerators.
   - Plotting and Hyperparameter Tuning.
